@@ -1,0 +1,21 @@
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\bin\Debug\GetDirectories.exe.config
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\bin\Debug\GetDirectories.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\bin\Debug\GetDirectories.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\obj\Debug\GetDirectories.csprojResolveAssemblyReference.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\obj\Debug\GetDirectories.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\obj\Debug\GetDirectories.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectories\GetDirectories\obj\Debug\GetDirectories.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\bin\Debug\GetDirectories.exe.config
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\bin\Debug\GetDirectories.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\bin\Debug\GetDirectories.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\obj\Debug\GetDirectories.csprojResolveAssemblyReference.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\obj\Debug\GetDirectories.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\obj\Debug\GetDirectories.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\GetDirectoryAndFiles\GetDirectories\GetDirectories\obj\Debug\GetDirectories.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\bin\Debug\GetDirectories.exe.config
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\bin\Debug\GetDirectories.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\bin\Debug\GetDirectories.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\obj\Debug\GetDirectories.csprojResolveAssemblyReference.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\obj\Debug\GetDirectories.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\obj\Debug\GetDirectories.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\[PF-.NET] Programming Fundamentals\Examples\net-get-directory-and-files\GetDirectories\GetDirectories\obj\Debug\GetDirectories.pdb
