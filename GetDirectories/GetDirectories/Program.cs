@@ -14,6 +14,7 @@ namespace GetDirectories
             Console.WriteLine("Please input directory: ");
             string directory = Console.ReadLine();
             Console.WriteLine("\nResult:");
+
             if (Directory.Exists(directory))
                 GetHierarchicalFolderList(directory, "*");
             else
@@ -24,7 +25,7 @@ namespace GetDirectories
 
         private static void GetHierarchicalFolderList(string path, string searchPattern = "*")
         {
-            var folders = SearchHandler.GetDirectories(path);
+            List<string> folders = SearchHandler.GetDirectories(path);
             string folder = string.Empty;
             foreach (var item in folders)
             {

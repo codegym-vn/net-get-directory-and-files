@@ -11,7 +11,7 @@ namespace GetDirectories
         {
             try
             {
-                var listFiles = new List<string>();
+                List<string> listFiles = new List<string>();
                 DirectoryInfo directory = new DirectoryInfo(path);
                 FileInfo[] Files = directory.GetFiles(pattern);
                 foreach (FileInfo file in Files)
